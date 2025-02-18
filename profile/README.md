@@ -2,7 +2,7 @@
 
 ## Programming Language Distribution
 
-![Programming Languages](https://github.com/Lhasa-Technology-Studios/Lhasa_Technology_Studios-Repository_Statistics/blob/main/language_distribution.png)
+![Programming Languages](https://github.com/Lhasa-Technology-Studios/.github/blob/main/language_distribution.png)
 
 
 <!--
