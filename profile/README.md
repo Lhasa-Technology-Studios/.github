@@ -1,6 +1,6 @@
 # Welcome to Lhasa Technology Studios 👋
 
-## Programming Language Distribution
+## Language Distribution
 
 ![Programming Languages](https://github.com/Lhasa-Technology-Studios/.github/blob/main/language_distribution.png)
 
