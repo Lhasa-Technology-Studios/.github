@@ -1,8 +1,21 @@
-# Welcome to Lhasa Technology Studios 👋
+# Hi 👋
+# Welcome to Lhasa Technology Studios 🚀
 
+🔗 Featured projects:  
+- [Lhasa Trader](https://lhasa.io)
+
+  
+Learn More:
+
+- [Lhasa Technology Studios](https://lhasa.io)
+
+
+
+<!--
 ## Language Distribution
 
 ![Programming Languages](https://github.com/Lhasa-Technology-Studios/.github/blob/main/language_distribution.png)
+-->
 
 
 <!--
